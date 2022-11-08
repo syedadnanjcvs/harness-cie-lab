@@ -1,2 +1,1 @@
-Harness Project for Bootcamp lab
-update for pull request
+Harness Project for Bootcamp lab.
