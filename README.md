@@ -1,1 +1,1 @@
-Harness Project for Bootcamp lab.
+Harness Project for Bootcamp lab
